@@ -1,0 +1,30 @@
+.caja-alianzas {
+  background-image: url(../img/p-alianza-jsu.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 10rem;
+  padding-top: 3%;
+  padding-bottom: 3%;
+}
+
+.titulo-alianzas {
+  color: white;
+  font-size: 1.1rem;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  text-align: center;
+  justify-items: center;
+  background-color: $color-1brand;
+  opacity: 0.8;
+  max-width: 80%;
+
+  & h2 {
+    color: white;
+    font-size: 2rem;
+    font-weight: 400;
+  }
+}
+
+.parrafo-cotizador {
+  font-size: 1.5rem;
+}
